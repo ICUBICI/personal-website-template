@@ -8,5 +8,7 @@ And feel free to change the template to whatever you want.
 
 Example: https://social-links-template.netlify.app/
 
-Discord: https://discord.gg/dNTwhCGcjY
+![personal-website-enter](https://user-images.githubusercontent.com/63574100/149467582-596a9f51-c4ac-488d-bb73-8b2777ed03bf.PNG)
+![personal-website](https://user-images.githubusercontent.com/63574100/149467577-113303d2-22d8-4f38-ae69-d9de2774cc5e.PNG)
 
+Discord: https://discord.gg/dNTwhCGcjY
