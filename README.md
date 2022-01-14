@@ -10,5 +10,7 @@ Example: https://social-links-template.netlify.app/
 
 ![personal-website-enter](https://user-images.githubusercontent.com/63574100/149467582-596a9f51-c4ac-488d-bb73-8b2777ed03bf.PNG)
 ![personal-website](https://user-images.githubusercontent.com/63574100/149467577-113303d2-22d8-4f38-ae69-d9de2774cc5e.PNG)
+![image](https://user-images.githubusercontent.com/63574100/149467707-25891407-e1e8-43e6-8f58-db4a806b1cae.png)
+
 
 Discord: https://discord.gg/dNTwhCGcjY
